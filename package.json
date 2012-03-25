@@ -1,7 +1,7 @@
 {
   "name": "quill-tar",
-  "description": "Utility functions for packing and unpacking quill `system` tarballs",
   "version": "0.1.0",
+  "description": "Utility functions for packing and unpacking quill `system` tarballs",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "repository": {
     "type": "git",
