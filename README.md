@@ -35,7 +35,7 @@ Lets take a look at some sample usage:
   
   quillTar.unpack(
     '/path/to/some/tarball.tgz',
-    '/parent/dir/to/untar/into,
+    '/parent/dir/to/untar/into',
     {
       modes: {
         exec: 0777 & (~022), 
@@ -78,7 +78,7 @@ All tests are written with [vows][1]:
 ## Authors
 [Nodejitsu Inc][2]
 
-## License Attribution
+## License and Attribution
 
 * (C) 2011, Isaac Schlueter
 * (C) 2012, Nodejitsu Inc. 
