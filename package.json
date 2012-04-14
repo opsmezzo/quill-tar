@@ -22,7 +22,9 @@
   "devDependencies": {
     "vows": "0.6.x"
   },
-  "private": true,
+  "publishConfig": {
+    "registry": "http://reg.njitsu.net:5984"
+  },
   "main": "./lib/quill-tar",
   "scripts": {
     "test": "vows test/*-test.js --spec"
