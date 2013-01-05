@@ -1,6 +1,6 @@
 {
   "name": "quill-tar",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Utility functions for packing and unpacking quill `system` tarballs",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "repository": {
@@ -31,6 +31,6 @@
     "test": "vows test/*-test.js --spec"
   },
   "engines": {
-    "node": ">= 0.6.4"
+    "node": "0.8.x"
   }
 }
