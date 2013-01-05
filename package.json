@@ -14,12 +14,13 @@
   ],
   "dependencies": {
     "fstream": "0.1.x",
-    "read-dir-files": "0.1.x",
+    "fstream-ignore": "0.0.5",
     "tar": "0.1.x",
     "uid-number": "0.0.x",
     "utile": "0.0.x"
   },
   "devDependencies": {
+    "read-dir-files": "0.1.x",
     "vows": "0.6.x"
   },
   "publishConfig": {
