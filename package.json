@@ -17,17 +17,17 @@
     "fstream-ignore": "0.0.5",
     "tar": "0.1.x",
     "uid-number": "0.0.x",
-    "utile": "0.0.x"
+    "utile": "0.1.x"
   },
   "devDependencies": {
     "read-dir-files": "0.1.x",
-    "vows": "0.6.x"
+    "vows": "0.7.x"
   },
   "main": "./lib/quill-tar",
   "scripts": {
     "test": "vows test/*-test.js --spec"
   },
   "engines": {
-    "node": "0.8.x"
+    "node": ">= 0.8.x"
   }
 }
