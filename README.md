@@ -1,4 +1,4 @@
-# quill-tar ![Build Status](https://secure.travis-ci.org/opsmezzo/quill-tar.png)(http://travis-ci.org/opsmezzo/quill-tar)
+# quill-tar [![Build Status](https://secure.travis-ci.org/opsmezzo/quill-tar.png)](http://travis-ci.org/opsmezzo/quill-tar)
 
 `quill-tar` contains utility functions for packing and unpacking quill `system` tarballs. 
 
